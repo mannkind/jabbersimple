@@ -26,7 +26,7 @@
  * @uses Jabber
  * @version 0.9
  * @author Dustin Brewer 
- * @license GPLv2
+ * @license Revised BSD
  */
 class JabberSimple extends Jabber {
 
